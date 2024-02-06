@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biochemustry, Université de Montréal, 2009
+* B.S. in Biochemistry, Université de Montréal, 2009
 * Ph.D in Biochemistry, McGill University, 2017
 
 Work experience
@@ -19,6 +19,10 @@ Work experience
 * 2023-current: Assistant Professor
   * Université Laval
   * Department de Psychiatrie et de Neurosciences
+
+* 2023-current: University Researcher
+  * CRCHU de Québec - Neuroscience Axis
+
 
 * 2017-2022: Postdoctoral Fellow
   * Duke University

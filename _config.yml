@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Flamand RNA Lab"
 title_separator          : "-"
-name                     : &name "Mathieu Flamand"
-description              : &description "I"
+name                     : &name "Flamand RNA lab"
+description              : &description "Website for Flamand Lab"
 url                      : https://mflamand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mflamand/mflamand.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Mathieu Flamand"
-  avatar           : "profile.png"
-  bio              : "Y am an assistant professor in the Department of psychiatry and neurosciences in the Faculty of Medicine at Université Laval."
-  location         : "Québec, Canada"
+  avatar           : "prof_pic.jpg"
+  bio              : "I am an assistant professor in the Department of psychiatry and neurosciences in the Faculty of Medicine at Université Laval and a researcher at the CRCHU de Québec in the Neuroscience Axis."
+  location         : "Québec city, Canada"
   employer         : Université Laval
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Mathieu+N+Flamand"
   googlescholar    : "https://scholar.google.com/citations?user=K3X4KZoAAAAJ&hl=en&inst=10807683942739851211"

@@ -1,7 +1,7 @@
 ---
 title: "The Proteins of mRNA Modification: Writers, Readers, and Erasers"
 collection: publications
-permalink: /publication/2023-04-17-The Proteins of mRNA Modification: Writers, Readers, and Erasers
+permalink: /publication/2023-04-17-The Proteins of mRNA Modification Writers, Readers, and Erasers
 excerpt: 'Review article on RNA modification writers, readers and erasers'
 date: 2023-04-17
 venue: 'Annu Rev Biochem'

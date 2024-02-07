@@ -1,7 +1,7 @@
 ---
 title: "SnapShot: endogenous RNAi machinery and mechanisms"
 collection: publications
-permalink: /publication/2012-08-07-SnapShot: endogenous RNAi machinery and mechanisms
+permalink: /publication/2012-08-07-SnapShot endogenous RNAi machinery and mechanisms
 date: 2012-08-07
 venue: 'Cell'
 paperurl: '10.1016/j.cell.2012.07.016'

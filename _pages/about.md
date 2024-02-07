@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome to the Flamand Lab"
 excerpt: "About us"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html

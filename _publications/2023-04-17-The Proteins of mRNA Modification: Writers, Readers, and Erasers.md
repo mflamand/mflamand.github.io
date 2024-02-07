@@ -9,7 +9,7 @@ paperurl: '10.1146/annurev-biochem-052521-035330'
 citation: 'Flamand MN, Tegowski M, Meyer KD. (2023). &quot;The Proteins of mRNA Modification: Writers, Readers, and Erasers&quot; <i>Annu Rev Biochem</i> 92:145-173.'
 ---
 
-<a href='10.1146/annurev-biochem-052521-035330'>Download paper here</a>
+<a href='https://doi.org/10.1146/annurev-biochem-052521-035330'>Download paper here</a>
 
 Review article on RNA modification writers, readers and erasers
 

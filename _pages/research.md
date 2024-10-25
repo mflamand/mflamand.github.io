@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 
-The lab focuses on understanding the molecular mechanisms by which RNA modificiation and RNA-binding proteins control gene regulatory networks in neurons. We currently have two projects in the lab: 
+The lab focuses on understanding the molecular mechanisms by which RNA modifications and RNA-binding proteins (RBPs) contribute to gene regulatory networks in neurons. We currently have two projects in the lab: 
 
 ![main](/images/main_page.png){:class="img-responsive"}
 

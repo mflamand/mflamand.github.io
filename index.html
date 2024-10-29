@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class='container'>
+    <header class="masthead text-center">
+
+      <img class='img-responsive center-block' src="/images/others/neuron.png" width="100%" height="100%" />
+
+      <p>
+      <i>Welcome to Mathieu Flamand's lab website! We are part of the Neuroscience Axis of the CRCHU de Québec (Centre de recherche du CHU de Québec) - Université Laval. Our group uses molecular biology, biochemistry and genomics to study the fundamental roles of RNA-binding proteins (RBPs) and RNA modifications in synaptic plasticity and in neurodegenerative diseases.
+      <br> <br>
+      Bienvenue sur le site web du groupe de Mathieu Flamand ! Nous faisons partie de l’Axe Neuroscience du Centre de recherche du CHU de Québec (CRCHU de Québec) — Université Laval. Nous utilisons des méthodes de pointes en biologie moléculaire, biochimie et génomiques afin de comprendre les rôles et fonctions des modifications de l’ARN et des protéines de liaison à l’ARN dans la fonction neuronale et dans les maladies neurodégénératives, incluant la sclérose latérale amyotrophique et la maladie d’Alzheimer.
+      <br><br></i>
+
+        <span style="display: block; margin-bottom: 3em"></span>
+
+      <a href="https://github.com/mflamand"><i class="fa fa-github"></i> FlamandLabGithub</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:mathieu.flamand@crchudequebec.ulaval.ca"><i class="fa fa-envelope-o"></i> mathieu.flamand@crchudequebec.ulaval.ca</a>
+      </p>
+
+      <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
+        <div style="text-align:left">
+          <h3> Recent News </h3>
+          <u>Happenings of the last few months</u>
+          <span style="display: block; margin-bottom: 1em"></span>
+          <div class="news">
+              {% capture now %}{{'now' | date: '%s' | minus: 7776000 %}}{% endcapture %}
+              <ul style="list-style-position:outside;padding:20px" >
+                {% for new in site.data.news %}
+                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                  {% if date > now %}
+                    <li>
+                      <span>
+                        {{ new.details }}
+                      </span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+          </div>
+        </div >
+      </div>
+
+
+
+      <span style="display: block; margin-bottom: 3em"></span>
+
+      <span style="display: block; margin-bottom: 3em"></span>
+      Axe Neurosciences, CRCHU de Québec - Université Laval<br>
+      Département de psychiatrie et de Neurosciences, Faculté de Médecine, Université Laval<br>
+      CHUL, 2705 boulevard Laurier, R3704.1, Québec (Québec) G1V 4G2, Canada
+
+      <br><br>
+      Website build with Jekyll, based on the Kording lab page
+      <br>
+      <span style="display: block; margin-bottom: 3em"></span>
+
+    </header>
+</div>

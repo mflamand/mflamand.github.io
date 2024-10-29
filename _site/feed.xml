@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Flamand RNA Lab</title>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>We are recruting / Nous recrutons!!</title>
+        <description>&lt;h3 id=&quot;the-new-website-is-up&quot;&gt;The new website is up!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive center-block&quot; src=&quot;/images/logo/Logo.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are recruiting students for next summer! If you are interested in joining our lab, please email me!&lt;/p&gt;
+
+&lt;p&gt;Nous sommes à la recherche de stagiaires pour l’été 2025! Si vous êtes intéressé, svp, écrivez moi un courriel!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:mathieu.flamand@crchudequebec.ulaval.ca&quot;&gt;&lt;i class=&quot;fa fa-envelope-o&quot;&gt;&lt;/i&gt; mathieu.flamand@crchudequebec.ulaval.ca&lt;/a&gt;&lt;/p&gt;
+
+&lt;header class=&quot;masthead text-center&quot;&gt;
+    &lt;span style=&quot;display: block; margin-bottom: 3em&quot;&gt;&lt;/span&gt;
+
+    &lt;span style=&quot;display: block; margin-bottom: 3em&quot;&gt;&lt;/span&gt;
+      Axe Neurosciences, CRCHU de Québec - Université Laval&lt;br /&gt;
+      Département de psychiatrie et de Neurosciences, Faculté de Médecine, Université Laval&lt;br /&gt;
+      CHUL, 2705 boulevard Laurier, R3704.1, Québec (Québec) G1V 4G2, Canada
+
+      &lt;br /&gt;&lt;br /&gt;
+      Website build with Jekyll, based on the Kording lab page
+      &lt;br /&gt;
+    &lt;span style=&quot;display: block; margin-bottom: 3em&quot;&gt;&lt;/span&gt;
+&lt;/header&gt;
+</description>
+				<pubDate>Tue, 29 Oct 2024 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/2024/10/29/new-website.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2024/10/29/new-website.html</guid>
+			</item>
+		
+	</channel>
+</rss>

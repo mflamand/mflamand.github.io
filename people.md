@@ -21,13 +21,13 @@ permalink: /people/
  {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
  {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
+<h3>Graduate Students / Étudiants aux cycles supérieurs</h3>
  {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
+<h3>Research Staff / Professionnel de Recherche</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
+<h3>Intern / Stagiaire</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -58,6 +58,10 @@ permalink: /people/
 
 | Who are they | When were they here | Where are they from |
 | :------------- |:-------------| :-----------|
+| Morgane Bourgouin-Savard | Summer 2025 | Université Laval, B.Sc. Biochimie |
+| Pénélope Beaulieu | Summer 2025 | Cégep de Lévis, Technique en biotechnologie |
+| Farès Bellilita | Summer 2025 | Université Claude Bernard Lyon 1, IUT Biotechnologie |
+| Aurélie Bergeron | Fall 2024 | Université Laval, B.Sc. Science biomédicale |
 | Athéna Croteau | Summer 2024 | Université Laval, Doctorat en Médecine |
 | Wandy Idris | Summer 2024 |Université Laval, B.Sc. Sciences biomédicales|
 | Cindy Imbert | Summer 2024 | Université Claude Bernard Lyon 1, IUT Biotechnologie |

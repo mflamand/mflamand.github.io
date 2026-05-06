@@ -1,7 +1,7 @@
 ---
 name: Joelle Roberge
 position: gradstudent
-avatar: profile.png
+avatar: JR.JPG
 twitter:
 joined: 2024
 title: Joelle Roberge

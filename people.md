@@ -58,12 +58,14 @@ permalink: /people/
 
 | Who are they | When were they here | Where are they from |
 | :------------- |:-------------| :-----------|
+| Paola Pulcina | Fall 2025 | niversité Laval, B.Sc. Sciences biomédicales |
+| Angélique Lacasse | Fall 2025 | Cégep de Lévis, Technique en biotechnologie |
 | Morgane Bourgouin-Savard | Summer 2025 | Université Laval, B.Sc. Biochimie |
 | Pénélope Beaulieu | Summer 2025 | Cégep de Lévis, Technique en biotechnologie |
 | Farès Bellilita | Summer 2025 | Université Claude Bernard Lyon 1, IUT Biotechnologie |
 | Aurélie Bergeron | Fall 2024 | Université Laval, B.Sc. Science biomédicale |
 | Athéna Croteau | Summer 2024 | Université Laval, Doctorat en Médecine |
-| Wandy Idris | Summer 2024 |Université Laval, B.Sc. Sciences biomédicales|
+| Wandy Idris | Summer 2024 |Université Laval, B.Sc. Sciences biomédicales |
 | Cindy Imbert | Summer 2024 | Université Claude Bernard Lyon 1, IUT Biotechnologie |
 
 {% endif %}
